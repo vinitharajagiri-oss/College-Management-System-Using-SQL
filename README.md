@@ -46,3 +46,8 @@ The project demonstrates how relational databases organize student information, 
 
 ## 8. Conclusion
 This project provides practical experience in SQL database management and helps build a foundation for more advanced database applications and data analysis projects.
+
+## Author
+Rajagiri Vinitha 
+
+Aspiring Data Analyst
